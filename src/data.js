@@ -202,7 +202,7 @@ export const projects = {
         "Integrated Voice AI with GoHighLevel CRM for workflow automation.",
       meta: ["GoHighLevel", "Voice AI", "CRM", "Workflow Automation"],
       outcome: "Reduced missed calls and improved appointment conversion",
-      href: "#",
+      href: "https://imc-ai-receptionist.vercel.app",
     },
     {
       tag: "Full-Stack",
