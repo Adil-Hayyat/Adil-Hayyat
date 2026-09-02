@@ -213,7 +213,7 @@ export const projects = {
         "leave management, notifications, and admin dashboard features.",
       meta: ["FastAPI", "React", "PostgreSQL", "Pydantic"],
       outcome: "Centralized project and team management",
-      href: "#",
+      href: "https://project-manager-roan-six.vercel.app",
     },
     {
       tag: "AI Voice Automation",
